@@ -72,7 +72,7 @@ Notes:
 3. Set the working directory to the parent folder of ./UCI HAR Dataset
 4. Run the script run_analysis.R wich creates the `DataSet_Tidy.txt` file
 
-Note: The Package reshape2 needs to be installed 
+Note: The package reshape2 needs to be installed 
 
 ### Cleaning of the data
 Short, high-level description of what the cleaning script does:
@@ -84,7 +84,7 @@ Short, high-level description of what the cleaning script does:
 * Creates and saves the tidy data set
 
 ## Description of the variables in the DataSet_Tidy.txt file
-`subject` - id of the experiment subject
+`subject` - ID of the experiment subject
 
 `activity` - type of activity performed by the subjects:
 * walking
